@@ -1,6 +1,6 @@
 # My GPT — Built from Scratch
 
-> Assembled from the NeetCode ML course o
+> Assembled from the NeetCode ML course
 
 
 
